@@ -1,3 +1,1 @@
-print ('hello world')
-p = ('hi')
-print (p)
+print ('hello AIMS GH')
