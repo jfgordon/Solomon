@@ -3,5 +3,15 @@
   <component name="Git.Application.Settings">
     <option name="myPathToGit" value="/usr/bin/git" />
   </component>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="KingSolomon" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
 </application>
 
